@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Fluid Mechanics & Particulate Flows"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2026-summer-teaching
+venue: "University of Queensland, School of Chemical Engineering"
+date: 2026-01-01
+location: "Brisbane, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am teaching the Fluid Mechanics & Particulate Flow, a second-year core engineering course, as a Research-Focused Lecturer at the University of Queensland (UQ). My student-centred, acitve-learning teaching approach is underpinned by my formal training on Teching Foundation course at UQ, and I am an Associate Fellow of Higher Education Academy (AFHEA).
 
 Heading 1
 ======
