@@ -2,7 +2,7 @@
 title: "Fluid Mechanics & Particulate Flows"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2026-summer-teaching
+permalink: /teaching/2026-summer-teaching-1
 venue: "University of Queensland, School of Chemical Engineering"
 date: 2026-01-01
 location: "Brisbane, Australia"
