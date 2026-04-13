@@ -3,6 +3,7 @@ title: "Teaching & Learning"
 collection: portfolio
 ---
 
+
 ---
 Teaching Philosophy
 ---
