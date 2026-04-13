@@ -30,17 +30,29 @@ In conclusion, my teaching philosophy is characterised by a commitment to studen
 References: 
 
 Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). How people learn: Brain, mind, experience, and school. National Academy Press. 
+
 Bruff, D. (2009). Teaching with classroom response systems: Creating active learning environments. Jossey-Bass. 
+
 Johnson-Glauch, N., Choi, D. S., & Herman, G. (2020). How engineering students use principles from one course to solve problems in another: Tracing fluid mechanics concepts in machine design. International Journal of Engineering Education, 36(6), 1924–1939. 
+
 Loes, C. N., Culver, K. C., & Trolian, T. L. (2016). How collaborative learning enhances students’ openness to diversity. The Journal of Higher Education, 89(6), 935–960. 
+
 Mayer, R. E. (2005). The Cambridge handbook of multimedia learning. Cambridge University Press. 
+
 Maceiras R. et al. (2025) Effectiveness of active learning techniques in knowledge retention among engineering students, Education for Chemical Engineers 51, 1-8. 
+
 Mandavgane S. (2020) Fun with fluid: An innovative assignment in fluid mechanics, Education for Chemical Engineers 30, 40-48. 
+
 Piaget, J. (1970). Science of education and the psychology of the child. Orion Press. 
+
 Plato. (2005). Meno (G. M. A. Grube, Trans.). In Plato: Complete works (J. M. Cooper, Ed.). Hackett Publishing. 
+
 Radmehr, F., Karami, M., & Karami, F. (2020). Effective teacher characteristics in higher education from students’ perspective: A qualitative study. Innovations in Education and Teaching International, 58(3), 308–318. 
+
 Rose, D. H., & Meyer, A. (2002). Teaching every student in the digital age: Universal design for learning. ASCD. 
+
 Stewart, M. (2013), Understanding learning: theories and critiques (Chapter 1), University teaching focus: A learning-centred approach, Taylor & Francis Group. 
+
 Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Harvard University Press. 
 
 
