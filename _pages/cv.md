@@ -11,26 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Thermal Engineering, UNSW Sydney, 2017
+* B.S. in Engineering, Bangladesh University of Engineering & Technology (BUET), 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-: Postdoctoral Research Fellow
+  * The University of Queensland
+  * Duties include: Led complex fluid mechanics research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2025-: Research-Focused Lecturer
+  * The University of Queensland
+  * Duties included: Teaching Fluid Mechanics and Thermodynamics
+  
+
+* 2017-2018: Casual Academic
+  * Macquarie University
+  * Duties included: Teaching Engineering Dynamics and Thermodynamics
+    
+* 2012-2017: PhD Research Scholar
+  * UNSW Sydney
+  * Duties included: Led research on high-energy-induced advanced manufacturing
+
   
 Skills
 ======
