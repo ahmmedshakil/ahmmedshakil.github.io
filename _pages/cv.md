@@ -52,10 +52,11 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+1. Engineering Intelligence: Coupling Physics, Multi-physical Modelling, and Knowledge. Australian Institute of Bioengineering and Nanotechnology (AIBN) Seminar Series 17Oct. 2025, The University of Queensland.
+2. Bridging Simulation & Intelligence: Advanced Tools for Multi-physical Modelling & Simulation. UQ EMCR Symposium, 25 July 2025, Australia.​
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
