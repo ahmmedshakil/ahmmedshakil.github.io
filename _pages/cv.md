@@ -53,8 +53,9 @@ Publications
 Talks
 ======
 
-1. Engineering Intelligence: Coupling Physics, Multi-physical Modelling, and Knowledge. Australian Institute of Bioengineering and Nanotechnology (AIBN) Seminar Series 17Oct. 2025, The University of Queensland.
-2. Bridging Simulation & Intelligence: Advanced Tools for Multi-physical Modelling & Simulation. UQ EMCR Symposium, 25 July 2025, Australia.​
+1. Engineering Intelligence: Coupling Physics, Multi-physical Modelling, and Knowledge. Australian Institute of Bioengineering and Nanotechnology (AIBN) Seminar Series, 17 Oct. 2025, The University of Queensland (UQ).
+2. Bridging Simulation & Intelligence: Advanced Tools for Multi-physical Modelling & Simulation. UQ EMCR Symposium, 25 July 2025, Australia.
+3. Gas Bubble Dynamics in Wastewater Treatment: Experimental and Computational Insights. ACWEB Seminar Series, ​14 Aug 2025, UQ, Australia.
 
 
 Teaching
